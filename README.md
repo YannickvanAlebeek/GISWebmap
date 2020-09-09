@@ -1,2 +1,4 @@
 # GISWebmap
-The webmap created during the webmapping workshop
+This repository contains the scripts and data for my first interactive web map. 
+
+You can view my map <[here](http://YannickvanAlebeek.github.io/GISWebmap)>
